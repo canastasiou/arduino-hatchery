@@ -1,2 +1,2 @@
 # arduino-hatchery
-Implements a hatchery device used for hatching eggs. Uses the Arduino platform.
+Implements a hatchery device used for hatching eggs of any type (through configuration). Uses the Arduino platform.
